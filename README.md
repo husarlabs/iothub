@@ -6,7 +6,7 @@ This project in the active development state and if you decided to use it anyway
 
 Only MQTT is available for device-to-cloud communication for because it has many advantages over AMQP and REST: it's stable, widespread, compact and provide many out-of-box features like auto-reconnects.
 
-See [TODO](https://github.com/goautomotive/iothub#todo) list to learn what is missing.
+See [TODO](https://github.com/husarlabs/iothub#todo) list to learn what is missing.
 
 ## Examples
 
@@ -20,8 +20,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/goautomotive/iothub/iotdevice"
-	"github.com/goautomotive/iothub/iotdevice/transport/mqtt"
+	"github.com/husarlabs/iothub/iotdevice"
+	"github.com/husarlabs/iothub/iotdevice/transport/mqtt"
 )
 
 func main() {
@@ -58,8 +58,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/goautomotive/iothub/common"
-	"github.com/goautomotive/iothub/iotservice"
+	"github.com/husarlabs/iothub/common"
+	"github.com/husarlabs/iothub/iotservice"
 )
 
 func main() {

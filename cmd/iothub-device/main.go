@@ -10,11 +10,11 @@ import (
 	"os"
 	"sync"
 
-	"github.com/goautomotive/iothub/cmd/internal"
-	"github.com/goautomotive/iothub/common"
-	"github.com/goautomotive/iothub/iotdevice"
-	"github.com/goautomotive/iothub/iotdevice/transport"
-	"github.com/goautomotive/iothub/iotdevice/transport/mqtt"
+	"github.com/husarlabs/iothub/cmd/internal"
+	"github.com/husarlabs/iothub/common"
+	"github.com/husarlabs/iothub/iotdevice"
+	"github.com/husarlabs/iothub/iotdevice/transport"
+	"github.com/husarlabs/iothub/iotdevice/transport/mqtt"
 )
 
 var transports = map[string]func() (transport.Transport, error){

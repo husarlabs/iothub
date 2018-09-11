@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/goautomotive/iothub/common"
+	"github.com/husarlabs/iothub/common"
 	"pack.ag/amqp"
 )
 

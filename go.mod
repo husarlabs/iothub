@@ -1,4 +1,4 @@
-module github.com/goautomotive/iothub
+module github.com/husarlabs/iothub
 
 require (
 	github.com/Azure/azure-sdk-for-go v0.0.0-20180727220559-4e8cbbfb1aea // indirect

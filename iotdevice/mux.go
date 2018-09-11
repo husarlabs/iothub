@@ -7,7 +7,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/goautomotive/iothub/common"
+	"github.com/husarlabs/iothub/common"
 )
 
 // once is like sync.Once but if fn returns an error it's considered

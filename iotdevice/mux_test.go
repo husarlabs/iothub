@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/goautomotive/iothub/common"
+	"github.com/husarlabs/iothub/common"
 )
 
 func TestEventsMux(t *testing.T) {

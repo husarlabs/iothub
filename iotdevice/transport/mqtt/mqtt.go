@@ -12,8 +12,8 @@ import (
 	"time"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
-	"github.com/goautomotive/iothub/common"
-	"github.com/goautomotive/iothub/iotdevice/transport"
+	"github.com/husarlabs/iothub/common"
+	"github.com/husarlabs/iothub/iotdevice/transport"
 )
 
 // DefaultQoS is the default quality of service value.

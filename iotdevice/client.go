@@ -7,8 +7,8 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/goautomotive/iothub/common"
-	"github.com/goautomotive/iothub/iotdevice/transport"
+	"github.com/husarlabs/iothub/common"
+	"github.com/husarlabs/iothub/iotdevice/transport"
 )
 
 // ClientOption is a client configuration option.

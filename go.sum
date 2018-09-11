@@ -1,14 +1,11 @@
+github.com/Azure/azure-sdk-for-go v0.0.0-20180727220559-4e8cbbfb1aea h1:KlKICkOl9jFZbHfHyP0QY0QAH4WJ1TAKeA+9TuE8ACA=
 github.com/Azure/azure-sdk-for-go v0.0.0-20180727220559-4e8cbbfb1aea/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
-github.com/Azure/azure-sdk-for-go v19.1.0+incompatible h1:ysqLW+tqZjJWOTE74heH/pDRbr4vlN3yV+dqQYgpyxw=
-github.com/Azure/azure-sdk-for-go v19.1.0+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
+github.com/Azure/go-autorest v0.0.0-20180809201959-39013ecb48ea h1:aLmfxMSOeDNhjdpb59jrEhN4zSrxsMBOu7psdM9KOz0=
 github.com/Azure/go-autorest v0.0.0-20180809201959-39013ecb48ea/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=
-github.com/Azure/go-autorest v10.15.2+incompatible h1:oZpnRzZie83xGV5txbT1aa/7zpCPvURGhV6ThJij2bs=
-github.com/Azure/go-autorest v10.15.2+incompatible/go.mod h1:r+4oMnoxhatjLLJ6zxSWATqVooLgysK6ZNox3g/xq24=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/dgrijalva/jwt-go v0.0.0-20180308231308-06ea1031745c h1:uwivskbBuX2rEOnl6mwlyJ4oql65nBku08q0NfLAryM=
 github.com/dgrijalva/jwt-go v0.0.0-20180308231308-06ea1031745c/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
-github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
-github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
 github.com/eclipse/paho.mqtt.golang v1.1.1 h1:iPJYXJLaViCshRTW/PSqImSS6HJ2Rf671WR0bXZ2GIU=
 github.com/eclipse/paho.mqtt.golang v1.1.1/go.mod h1:H9keYFcgq3Qr5OUJm/JZI/i6U7joQ8SYLhZwfeOo6Ts=
 github.com/fortytw2/leaktest v1.2.0 h1:cj6GCiwJDH7l3tMHLjZDo0QqPtrXJiWSI9JgpeQKw+Q=

@@ -16,9 +16,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/goautomotive/iothub/common"
-	"github.com/goautomotive/iothub/common/commonamqp"
-	"github.com/goautomotive/iothub/eventhub"
+	"github.com/husarlabs/iothub/common"
+	"github.com/husarlabs/iothub/common/commonamqp"
+	"github.com/husarlabs/iothub/eventhub"
 	"pack.ag/amqp"
 )
 

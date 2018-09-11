@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/goautomotive/iothub/common"
-	"github.com/goautomotive/iothub/iotdevice"
-	"github.com/goautomotive/iothub/iotdevice/transport"
-	"github.com/goautomotive/iothub/iotdevice/transport/mqtt"
-	"github.com/goautomotive/iothub/iotservice"
+	"github.com/husarlabs/iothub/common"
+	"github.com/husarlabs/iothub/iotdevice"
+	"github.com/husarlabs/iothub/iotdevice/transport"
+	"github.com/husarlabs/iothub/iotdevice/transport/mqtt"
+	"github.com/husarlabs/iothub/iotservice"
 )
 
 func TestEnd2End(t *testing.T) {
